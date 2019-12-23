@@ -1,0 +1,5 @@
+/Users/sonalimarlin/projects/Hello_World_CSharp/Hello_World_CSharp/bin/Debug/Hello_World_CSharp.exe
+/Users/sonalimarlin/projects/Hello_World_CSharp/Hello_World_CSharp/bin/Debug/Hello_World_CSharp.pdb
+/Users/sonalimarlin/projects/Hello_World_CSharp/Hello_World_CSharp/obj/Debug/Hello_World_CSharp.csprojAssemblyReference.cache
+/Users/sonalimarlin/projects/Hello_World_CSharp/Hello_World_CSharp/obj/Debug/Hello_World_CSharp.exe
+/Users/sonalimarlin/projects/Hello_World_CSharp/Hello_World_CSharp/obj/Debug/Hello_World_CSharp.pdb
